@@ -2,7 +2,7 @@
 Pathway enrichment visualization with plotly
 
 Example data generated here:
-![Data Source](https://github.com/pajucon/immport-plots/blob/main/notebooks/example_data.png?raw=true)
+![Data Source](https://github.com/reactome-fi/pathway_plot/blob/master/notebooks/example_data.png)
 
 Modified data generated with make-barbell-test-data.py
 Repo currently setup for editable installation:
