@@ -1,7 +1,5 @@
 .DS_Store
 /dist/
 /notebooks/data/
-/notebooks/.DS_Store
 /src/pathway_plot.egg-info/
 /src/pathway_plot/__pycache__/
-/tests/.DS_Store
