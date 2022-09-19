@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pathway_plot"
-version = "0.0.1"
+version = "0.0.11"
 authors = [
   { name="conleyp", email="conleyp@ohsu.edu" },
 ]
@@ -21,3 +21,9 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/x/sample/"
 "Bug Tracker" = "https://github.com/x/sample/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+pathway_plot = ["data/*.txt"]

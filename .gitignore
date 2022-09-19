@@ -1,5 +1,9 @@
 .DS_Store
+.idea
+.ipynb_checkpoints
 /dist/
+/env/
+/misc/
 /notebooks/data/
 /src/pathway_plot.egg-info/
 /src/pathway_plot/__pycache__/
