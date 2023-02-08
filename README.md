@@ -1,4 +1,4 @@
-# immport-plots
+# pathway-plot
 Pathway enrichment visualization with plotly
 
 Example data generated here:
